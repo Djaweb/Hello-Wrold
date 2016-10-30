@@ -1,2 +1,2 @@
-# Hello-Wrold
-Just to test it. 
+# Hello-World
+Just Do it! 
